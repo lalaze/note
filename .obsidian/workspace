@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "7d35140d40068ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed552755cb54466b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "box/薇薇安.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f3efd2ac0da6a8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "da200e2efbf1b056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb509648cffc4b7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8981cebb8a7b88c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#doing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec0c03018c78ee45",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390
+  },
+  "right": {
+    "id": "c7146239b37b4e1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "534ce23f98f1561f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48ad58b0c150f34d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "box/薇薇安.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "12abfe0d1ec1c261",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b58e4176f9d1beeb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "box/薇薇安.md"
+              }
+            }
+          },
+          {
+            "id": "e93ea1861c7e4926",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "box/薇薇安.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dae7a42a44193b05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96a613b2731e16c1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "59b2360e9f080e72",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ed552755cb54466b",
+  "lastOpenFiles": [
+    "box/薇薇安.md",
+    "date/2022-06-29.md",
+    "未命名.md",
+    "date/2022-06-28.md",
+    "template/date-template.md",
+    "doing/tasks/搭建一个博客放hk的服务器上，强制自己输出，配置证书.md",
+    "date/todolist.md",
+    "box/obsidian学习2.md",
+    "img/Pasted image 20220626201117.png",
+    "img/Pasted image 20220626201457.png"
+  ]
+}

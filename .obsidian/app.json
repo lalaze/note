@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "autoPairMarkdown": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "box",
+  "attachmentFolderPath": "img",
+  "readableLineLength": true
+}
