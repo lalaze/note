@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "box/薇薇安.md",
+            "file": "date/2022-06-29.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "box/薇薇安.md",
+                "file": "date/2022-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "box/薇薇安.md"
+                "file": "date/2022-06-29.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "box/薇薇安.md",
+                "file": "date/2022-06-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,8 +154,8 @@
   },
   "active": "ed552755cb54466b",
   "lastOpenFiles": [
-    "box/薇薇安.md",
     "date/2022-06-29.md",
+    "box/薇薇安.md",
     "未命名.md",
     "date/2022-06-28.md",
     "template/date-template.md",
